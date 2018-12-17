@@ -1,4 +1,5 @@
 * folder 1 + 2 = all web site
+* folder xgpi is not interested for you
 * database in xsave folder 
           => creat database with named "car" and import car.sql
           => not give me remarks concerning tables nor names of the database (kolchi ba9i mgharbe9 juste for testing)
